@@ -229,6 +229,7 @@ Also check out the site-shared
 * [Mobile friendly pages: tips & tricks](https://github.com/dart-lang/site-shared/wiki/Mobile-friendly-pages:-tips-&-tricks)
 * [Writing for Dart and Flutter websites](https://github.com/dart-lang/site-shared/wiki/Writing-for-Dart-and-Flutter-websites)
 
+[Flutter]: https://flutter.dev/
 [Flutter]: https://flutter.dev
 [Build Status]: https://travis-ci.org/flutter/website.svg?branch=master
 [Cloning a repository]: https://help.github.com/articles/cloning-a-repository
@@ -241,7 +242,3 @@ Also check out the site-shared
 [GNU diffutils]: https://www.gnu.org/software/diffutils
 [DartPad embedding guide]: https://github.com/dart-lang/dart-pad/wiki/Embedding-Guide
 [Jekyll]: https://jekyllrb.com/
-[nvm]: https://github.com/nvm-sh/nvm/blob/master/README.md#installing-and-updating
-[Repo on Travis]: https://travis-ci.org/flutter/website
-[rvm]: https://rvm.io/rvm/install#installation
-[this repo]: https://github.com/flutter/website
